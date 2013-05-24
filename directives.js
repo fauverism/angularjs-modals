@@ -1,5 +1,5 @@
 directives.directive('ngPopup', function(Popup){
-  return {
+	return {
 		restrict: 'A',
 		link: function postLink(scope, element, attrs) {
 			var ngPopupUrl = attrs['ngPopup'];
