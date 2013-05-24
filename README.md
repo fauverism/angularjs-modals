@@ -1,11 +1,9 @@
-angularjs-modals
+Angular and Boostrap Modal Popups
 ================
 
 Simple AngularJS modals in the $scope.
 
 **Demo** http://jsfiddle.net/u6QSz/6/
-
-### Angular and Boostrap Modal Popups
 
 * * *
   
