@@ -1,5 +1,5 @@
 services.factory('Popup', function ($http, $compile) {
-    // Got the idea for this from a post I found. Tried to not have to make this
+	// Got the idea for this from a post I found. Tried to not have to make this
 	// object but couldn't think of a way to get around this
 	var popupService = {};
 
